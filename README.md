@@ -23,20 +23,20 @@ Below are the pages of this website:
 *  **Pricing of solutions provided by Vecta Corporation**
 
 Below are the few CSS selectors that were used to build this web site:
->**ID**
->**Class**
->**Attribute**
->**Pseudo-class**
->**Pseudo-element**
->**Multiple-element**
->**Descendant**
+>**ID**  
+>**Class**  
+>**Attribute**  
+>**Pseudo-class**  
+>**Pseudo-element**  
+>**Multiple-element**  
+>**Descendant**  
 >**Child**  
 
 Below are the few **_CSS Propertires_** used to design this web site:
->**Font properties**
->**Background properties**
->**Block properties**
->**Box properties**
->**Border properties**
+>**Font properties**  
+>**Background properties**  
+>**Block properties**  
+>**Box properties**  
+>**Border properties**  
 
-Overall this website is modified version of previous website  of Assignment2. This websited is designed purely using CSS.
+Overall this website is the modified version of previous website under Assignment2. This website is designed purely using CSS.
